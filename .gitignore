@@ -1,4 +1,5 @@
-# ignore temporary swap files
+#ignore temporary swap files
 *.swp
-
+dist/
 .DS_Store
+seirsplus.egg-info
